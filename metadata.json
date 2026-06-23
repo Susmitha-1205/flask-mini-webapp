@@ -1,0 +1,6 @@
+{
+  "name": "Flask Mini Web App",
+  "description": "An interactive Flask-based Todo & Notes application builder, code explorer, and visual terminal simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
